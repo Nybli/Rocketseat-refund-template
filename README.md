@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.svg"></h1>
+<h1 align="center"><img src="img/logo.svg"></h1>
 
 <p align="center">
 Programa exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
